@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to Cellpoint Digtal on GitHub. Once you are here, please remember to add a photo of you to your profile. 
 <!--
 
 **Here are some ideas to get you started:**
