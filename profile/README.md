@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to Cellpoint Digtal on GitHub. Once you are here, please 🙏 remember to add a photo of you to your profile. 
+Welcome to Cellpoint Digtal on GitHub. Once you are here, please 🙏 remember to add a photo of you to your profile. Your github username might be hard to relate to you so consider adding your real name as well, this will make it easier for your collegues to navigate this ecosystem.
 <!--
 
 **Here are some ideas to get you started:**
