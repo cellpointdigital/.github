@@ -19,10 +19,6 @@ categories:
   - title: 🐛 Bug Fixes
     labels:
       - bug
-  # Default label used by Dependabot
-  - title: 📦 Dependency updates
-    labels:
-      - dependencies
   - title: 📝 Documentation updates
     labels:
       - documentation
@@ -32,6 +28,12 @@ categories:
   - title: 🚦 Tests
     labels:
       - tests
+  - title: ✍ Other changes
+    # Default label used by Dependabot
+  - title: 📦 Dependency updates
+    labels:
+      - dependencies
+    collapse-after: 15
 exclude-labels:
   - reverted
   - skip-release
